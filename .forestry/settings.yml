@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: README.md
+  label: README
+  match: "**/*"
+  read_only: true
+- type: heading
+  label: Content
 - type: directory
   path: ''
   label: Pages
@@ -17,6 +24,12 @@ sections:
   create: all
   templates:
   - post
+- type: heading
+  label: Config
+- type: document
+  path: netlify.toml
+  label: Netlify
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
