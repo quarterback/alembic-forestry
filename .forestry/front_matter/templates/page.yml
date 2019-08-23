@@ -22,7 +22,3 @@ fields:
   name: aside
   label: Aside
   description: Show the sidebar / aside
-pages:
-- about.md
-- index.md
-- 404.md
