@@ -26,6 +26,10 @@ sections:
 - type: heading
   label: Config
 - type: document
+  path: _config.yml
+  label: Jekyll
+  match: "**/*"
+- type: document
   path: netlify.toml
   label: Netlify
 upload_dir: uploads
