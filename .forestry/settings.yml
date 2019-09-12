@@ -28,7 +28,6 @@ sections:
 - type: document
   path: _config.yml
   label: Jekyll
-  match: "**/*"
 - type: document
   path: netlify.toml
   label: Netlify
