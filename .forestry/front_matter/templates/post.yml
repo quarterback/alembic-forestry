@@ -8,6 +8,15 @@ fields:
   description: The title of the sermon
   config:
     required: true
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
 - type: file
   name: feature_image
   label: Feature image
