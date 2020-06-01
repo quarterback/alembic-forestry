@@ -8,6 +8,15 @@ fields:
   description: The title of the sermon
   config:
     required: true
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
 - type: file
   name: feature_image
   label: Feature image
@@ -31,4 +40,4 @@ fields:
   label: Comments
   description: Turn off comments (make sure to configure comments in _config.yml)
 pages:
-- _posts/owning-your-masters.md
+- _posts/2020-06-01-booklist.md

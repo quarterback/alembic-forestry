@@ -5,6 +5,7 @@ feature_text: ''
 categories: []
 aside: false
 comments: false
+date: 2020-06-01 10:00:00 -0700
 
 ---
 **I first started blogging in early 2000.** I've been writing online off and on since then. There are remnants of archives floating around the web, but I've largely jettisoned old content as I grow in my professional practice. The most memorable things I've hung onto, but otherwise, it's not worth revisiting the roughest of drafts.
@@ -19,4 +20,4 @@ These days, I'm not as interested in reaching out to strangers. I'm far more int
 
 Still, I've long sought to apply the tenets of everyday service delivery to regular people in ways that are relevant and impactful. I think the only way to do that is to figure out where to get involved, document the process, and keep iterating. 
 
-In addition to this fledging personal site, I've setup a [Pixelfed instance](https://pics.ronbronson.com/ron), started using Mastodon again & this site is using Forestry CMS, but is a simple Jekyll site served via Github and deployed through Netlify. 
+In addition to this fledging personal site, I've setup a [Pixelfed instance](https://pics.ronbronson.com/ron), started using Mastodon again & this site is using Forestry CMS, but is a simple Jekyll site served via Github and deployed through Netlify.
