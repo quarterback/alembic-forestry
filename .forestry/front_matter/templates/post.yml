@@ -30,5 +30,3 @@ fields:
   name: comments
   label: Comments
   description: Turn off comments (make sure to configure comments in _config.yml)
-pages:
-- _posts/owning-your-masters.md
