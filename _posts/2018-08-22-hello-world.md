@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Blogging
 categories:
 - General
 feature_image: "/img/872-2560x600.jpg"
@@ -9,4 +9,4 @@ aside: false
 comments: false
 
 ---
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+So if I do this right, I'll actually have a blog that's connected to my site. But I'm not sure we're there yet. 
